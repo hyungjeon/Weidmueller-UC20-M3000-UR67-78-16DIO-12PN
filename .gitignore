@@ -1,0 +1,10 @@
+# CODESYS auto-generated files (recreated on open/build)
+*.opt
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+*.precompilecache
+*.backup
+*.project.bak
+*.~u
+*.tmp
